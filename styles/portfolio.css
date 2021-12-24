@@ -1,7 +1,34 @@
+:root {
+  --branding-color: rgb(209, 66, 209);
+  --secondary-color: gainsboro;
+}
+
 h1 {
   color: pink;
 }
 
 body {
-  background: purple;
+  background: var(--branding-color);
+}
+
+.hero {
+  background: var(--secondary-color);
+  text-align: center;
+  padding: 30px 15px;
+}
+
+.contact-link {
+  background: pink;
+  color: purple;
+  font-size: 12px;
+  padding: 3px 5px;
+  border-radius: 20%;
+}
+
+.about-link {
+  background: pink;
+  color: purple;
+  font-size: 12px;
+  padding: 3px 5px;
+  border-radius: 20%;
 }
