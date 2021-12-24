@@ -32,3 +32,33 @@ body {
   padding: 3px 5px;
   border-radius: 20%;
 }
+
+.writer-title {
+  font-size: 64px;
+}
+
+.follow-me {
+  font-size: 64px;
+}
+
+.btn-branding-outline {
+  background: pink;
+  color: purple;
+  font-size: 12px;
+  padding: 3px 5px;
+  border-radius: 20%;
+}
+
+@media (max-width: 960px) {
+  .container {
+    text-align: center;
+  }
+
+  .writer-title {
+    font-size: 30px;
+  }
+
+  .follow-me {
+    font-size: 30px;
+  }
+}
