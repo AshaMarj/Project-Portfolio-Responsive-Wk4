@@ -14,7 +14,7 @@ body {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 30px 15px;
+  padding: 100px 15px;
 }
 
 .contact-link {
