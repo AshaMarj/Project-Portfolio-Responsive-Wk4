@@ -33,6 +33,22 @@ body {
   border-radius: 20%;
 }
 
+.projects-link {
+  background: pink;
+  color: purple;
+  font-size: 12px;
+  padding: 3px 5px;
+  border-radius: 20%;
+}
+
+.work-section {
+  margin: 70px 0;
+}
+
+.about-section {
+  padding: 100px 15px;
+}
+
 .writer-title {
   font-size: 64px;
 }
